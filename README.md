@@ -18,7 +18,7 @@ To start using the bot, follow the steps below:
 The project is running on a .env to store sensible informations. You got three parameters to provide
 ```
 TOKEN="[Your discord bot secret token]"
-MONGO_URI="[Your db link] (should look like this : mongodb+srv://<pseudo>:<pwd>@<db-name>.fytyqiw.mongodb.net/?retryWrites=true&w=majority"
+MONGO_URI="[Your db link] (should look like this : mongodb+srv://<pseudo>:<pwd>@<db-name>.fytyqiw.mongodb.net/?retryWrites=true&w=majority)"
 GUILD_ID="[Your discord serv id]"
 ```
 
